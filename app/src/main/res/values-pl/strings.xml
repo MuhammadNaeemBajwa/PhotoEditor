@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Santa Spotter</string>
+    <string name="label_brush">Pędzel</string>
+    <string name="label_shape">Kształt</string>
+    <string name="label_oval">Elipsa</string>
+    <string name="label_rectangle">Prostokąt</string>
+    <string name="label_line">Linia</string>
+    <string name="label_arrow">Strzałka</string>
+    <string name="label_emoji">Emoji</string>
+    <string name="label_sticker">Naklejka</string>
+    <string name="label_eraser">Gumka</string>
+    <string name="label_eraser_mode">Tryb Gumki</string>
+    <string name="label_text">Tekst</string>
+    <string name="label_filter">Filtr</string>
+    <string name="label_adjust">Dostosuj</string>
+    <string name="msg_save_image">Czy na pewno chcesz wyjść bez zapisywania?</string>
+    <string name="app_intent_name">PhotoEditor</string>
+    <string name="msg_save_image_to_share">Zapisz obraz, aby udostępnić</string>
+    <string name="msg_share_image">Udostępnij</string>
+
+
+
+    <string name="powered_by">Powered by</string>
+    <string name="take_a_photo">Take a photo</string>
+    <string name="upload_a_photo">Upload a photo</string>
+    <string name="background">Background</string>
+    <string name="santa">Santa</string>
+    <string name="santa_claus_is_ncoming_to_town">Santa Claus is\ncoming to town...</string>
+    <string name="now_you_can_spot_him_in_action">Now you can spot him in action!</string>
+    <string name="spot_him_now">Spot Him Now!</string>
+    <string name="https_www_copperfield_com">https://www.copperfield.com</string>
+    <string name="privacy_policy">Privacy Policy</string>
+</resources>
